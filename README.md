@@ -7,7 +7,7 @@ Py script that uses acidanthera's macserial to generate SMBIOS and optionally sa
 
 Do the following one line at a time in Terminal:
 
-    git clone https://github.com/corpnewt/GenSMBIOS
+    git clone https://github.com/gmbshad/GenSMBIOS
     cd GenSMBIOS
     chmod +x GenSMBIOS.command
     
